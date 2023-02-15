@@ -2,6 +2,7 @@
     {"name" : "Marry", "email" : "marry@gmail.com"},
     {"name" : "Steve" , "email" : "steve@yahoo.com"},
     {"name" : "Teddy" , "email" : "teddy@mail.ru"},
-    {"name" : "Teddy1" , "email" : "teddy1@mail.com"}
-    {"name" : "Teddy2" , "email" : "teddy2@mail.com"}
+    {"name" : "Teddy1" , "email" : "teddy1@mail.com"},
+    {"name" : "Teddy2" , "email" : "teddy2@mail.com"},
+    {"name" : "Teddy3" , "email" : "teddy3@mail.com"}
 ]
